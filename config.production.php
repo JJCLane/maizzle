@@ -65,7 +65,7 @@ return [
             'preserveLineBreaks' => false,
             'collapseWhitespace' => true,
             'conservativeCollapse' => false,
-            'processConditionalComments' => true,
+            'processConditionalComments' => false,
         ],
         'sixHex' => true,
         'altText' => true,
